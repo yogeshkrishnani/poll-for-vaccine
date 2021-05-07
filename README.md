@@ -16,4 +16,6 @@ Step 3: Go to poll-for-vaccine folder in terminal
 
 Step 4: Fire 'serve' command
 
-Step 5: Open the url shown in the output of serve command, i.e http://localhost:5000 
+Step 5: Open the url shown in the output of serve command, i.e http://localhost:5000 and append /poll-for-vaccine at the end.
+
+http://localhost:5000/poll-for-vaccine 
